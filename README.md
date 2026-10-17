@@ -57,6 +57,13 @@
 <br>
 
 <p align="center">
+  <img src="assets/mac-menubar.png" width="340" alt="Airsivo menu bar panel showing a connected tablet at 21 ms latency">
+</p>
+<p align="center"><sub>The menu bar panel, connected to a Galaxy Tab S8+ and showing live latency. Device name hidden for privacy.</sub></p>
+
+<br>
+
+<p align="center">
   <img src="assets/mac-welcome.png" width="420" alt="Airsivo welcome window on macOS">
   &nbsp;
   <img src="assets/mac-about.png" width="300" alt="About Airsivo on macOS">
