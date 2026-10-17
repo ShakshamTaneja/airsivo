@@ -1,0 +1,24 @@
+AIRSIVO
+ACCEPTABLE USE POLICY
+
+Last updated: 17 October 2026
+
+This Acceptable Use Policy forms part of the Airsivo Terms of Use. Breach of this Policy is a material breach of the Terms of Use and terminates your licence automatically.
+
+1. PERMITTED USE. You may use Airsivo only to display, mirror and control your own computer using your own tablet, or a computer and tablet that you are authorised to use, for lawful purposes.
+
+2. PROHIBITED USE. You must not use Airsivo, or attempt to use it, to:
+(a) view, monitor, record or control any Device, account or system without the knowledge and authorisation of its owner and, where applicable, its user;
+(b) conduct surveillance, stalking, harassment or covert monitoring of any person;
+(c) capture, record, reproduce, retransmit, broadcast or distribute any content in breach of copyright, licence terms or digital rights management, including streaming services, paid content, examinations or proctored assessments;
+(d) display, transmit or facilitate any content that is unlawful, defamatory, obscene, sexually exploits minors, incites violence or hatred, or infringes any person's rights;
+(e) gain unauthorised access to, interfere with, disrupt or damage any Device, network or system, or introduce malware;
+(f) circumvent, disable or interfere with any security, permission, authentication or technical protection measure of Airsivo, an operating system or any third-party application;
+(g) reverse engineer, decompile or disassemble Airsivo except as permitted by law notwithstanding this restriction;
+(h) breach any applicable law, including laws on data protection, privacy, intellectual property, consumer protection, computer misuse, export control and sanctions;
+(i) use Airsivo in any High-Risk Use as defined in the Terms of Use; or
+(j) assist, encourage or permit any other person to do any of the above.
+
+3. ENFORCEMENT. Imperial ECC may, without notice or liability, suspend or terminate your licence, cooperate with law-enforcement and regulatory authorities, and take any other action it considers appropriate in response to an actual or suspected breach of this Policy.
+
+4. REPORTING. To report misuse of Airsivo, contact legal@imperialecc.com.

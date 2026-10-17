@@ -1,0 +1,20 @@
+AIRSIVO
+SECURITY AND VULNERABILITY DISCLOSURE POLICY
+
+Last updated: 17 October 2026
+
+1. OUR APPROACH. Airsivo is designed to process the minimum data necessary, to retain nothing, to request only the operating-system permissions it needs, and to communicate only between your own Devices on your local network.
+
+2. KNOWN LIMITATIONS. You should be aware that:
+(a) streams are currently sent over your local network without encryption;
+(b) any tablet on your network running Airsivo can connect to a Mac running Airsivo while the Mac app is open; and
+(c) a connected tablet can view and control the Mac.
+Use Airsivo only on trusted networks, quit Airsivo on your Mac when you are not using it, and keep your operating systems up to date.
+
+3. REPORTING A VULNERABILITY. If you believe you have found a security vulnerability in Airsivo, please report it privately to legal@imperialecc.com with a description, steps to reproduce, affected versions and your contact details. Please do not disclose it publicly until we have had a reasonable opportunity to fix it.
+
+4. OUR COMMITMENT. We will aim to acknowledge your report within five (5) business days, keep you informed of progress, and credit you (with your permission) when a fix is released.
+
+5. SAFE HARBOUR. We will not pursue legal action against researchers who, in good faith: test only against Devices they own or are authorised to test; avoid privacy violations, data destruction and service disruption; do not exploit a vulnerability beyond what is necessary to demonstrate it; and comply with this Policy and applicable law. This safe harbour does not authorise any activity that breaches the law or the rights of third parties.
+
+6. NO BOUNTY. Imperial ECC does not currently operate a paid bug-bounty programme.

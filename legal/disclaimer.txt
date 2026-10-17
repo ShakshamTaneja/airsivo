@@ -1,0 +1,26 @@
+AIRSIVO
+DISCLAIMER
+
+Last updated: 17 October 2026
+
+This Disclaimer forms part of, and is subject to, the Airsivo Terms of Use. Imperial Eminence Cyberguard Corporation ("Imperial ECC") makes Airsivo available on the following basis.
+
+1. NO WARRANTY. Airsivo is provided "as is", "as available" and "with all faults". To the fullest extent permitted by law, Imperial ECC disclaims every warranty, representation and condition, express or implied, including merchantability, satisfactory quality, fitness for a particular purpose, accuracy, security and non-infringement.
+
+2. NO LIABILITY. To the fullest extent permitted by law, Imperial ECC and its affiliates, directors, officers, employees and agents accept no liability whatsoever, and their total aggregate liability is nil, for any loss or damage of any kind arising from Airsivo or its use, as set out in Clause 13 of the Terms of Use. Nothing in this Disclaimer excludes liability that cannot lawfully be excluded.
+
+3. SCREEN CONTROL. Airsivo lets a connected tablet view and control your Mac. Anyone holding a connected tablet can see your screen and operate your computer. You are solely responsible for who has access to your Devices and for ending sessions.
+
+4. NETWORK SECURITY. Airsivo streams over your local network without encryption. Data may be intercepted by others on the same network. Use Airsivo only on networks you trust. Imperial ECC is not responsible for any interception, unauthorised access or disclosure.
+
+5. PERFORMANCE. Latency, frame rate, image quality, audio quality and reliability depend on your Devices, operating systems, network and environment, and are not guaranteed. Airsivo is not suitable for any purpose where delay, interruption or error could cause harm.
+
+6. NOT FOR HIGH-RISK USE. Airsivo must not be used to operate or monitor medical, life-support, aviation, transport, industrial, weapons, nuclear, critical-infrastructure or other safety-critical systems.
+
+7. THIRD-PARTY PLATFORMS. Airsivo depends on features of macOS, Android and Device hardware that are controlled by third parties and may change or stop working at any time. Some applications and services prevent their content from being captured or streamed; Airsivo does not and will not circumvent those protections.
+
+8. CONTENT. You are solely responsible for anything displayed, captured, transmitted or controlled using Airsivo, and for having the rights and consents required to do so. Imperial ECC does not monitor, endorse or control that content.
+
+9. NO AFFILIATION. Airsivo is an independent product. It is not affiliated with, endorsed by, sponsored by or approved by Apple Inc., Google LLC or Samsung Electronics Co., Ltd. References to their products are for identification and compatibility purposes only.
+
+10. NO PROFESSIONAL ADVICE. Nothing in Airsivo, its documentation or any Imperial ECC communication constitutes legal, technical, security or other professional advice.

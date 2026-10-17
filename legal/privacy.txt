@@ -1,0 +1,111 @@
+AIRSIVO
+PRIVACY POLICY
+
+Last updated: 17 October 2026
+Version: 1.0
+
+1. INTRODUCTION
+
+1.1 This Privacy Policy explains how Imperial Eminence Cyberguard Corporation ("Imperial ECC", "we", "us" or "our"), handles information in connection with the Airsivo applications for macOS and Android (the "Software").
+
+1.2 This Policy is intended to meet the requirements of, among others, the Digital Personal Data Protection Act, 2023 (India) and rules made under it ("DPDP Act"), the Information Technology Act, 2000 and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (India), the EU General Data Protection Regulation (EU) 2016/679 ("GDPR"), the UK GDPR and Data Protection Act 2018, the California Consumer Privacy Act as amended by the California Privacy Rights Act ("CCPA"), the Children's Online Privacy Protection Act (US), and the developer policies of Google Play.
+
+1.3 Capitalised terms not defined in this Policy have the meaning given in the Airsivo Terms of Use.
+
+2. SUMMARY
+
+2.1 Imperial ECC does not collect, receive, store, sell, share or otherwise process any personal data through the Software. The Software has no user accounts, analytics, advertising, tracking, telemetry, crash reporting or cloud servers. Everything the Software processes stays on, and travels only between, Devices that you own or control.
+
+3. INFORMATION PROCESSED LOCALLY ON YOUR DEVICES
+
+3.1 To provide its functions, the Software processes the following information locally, on and between your own Devices, during a Session. None of this information is transmitted to Imperial ECC or to any third party.
+
+(a) Screen content: images of the display shown on your tablet, captured on your Mac and streamed to your tablet as compressed video.
+(b) Audio: sound produced by applications whose windows are shown on your tablet, captured on your Mac and streamed to your tablet.
+(c) Input: the position and type of touches and gestures on your tablet, converted into mouse and scroll events on your Mac.
+(d) Device information: your tablet's device name and screen resolution, and your Mac's computer name and local network address, used so your Devices can find each other and size the display correctly.
+(e) Window information: the position of application windows on your Mac, used solely to decide which applications' sound is played on your tablet.
+(f) Settings: your preferences (for example display mode, resolution, quality and whether you have accepted these terms), stored locally on each Device.
+
+3.2 Screen content, audio and input are processed in real time and are not recorded, retained or written to storage by the Software. Settings remain on your Device until you change them or uninstall the Software.
+
+3.3 Screen content and audio may incidentally include personal data, including personal data of other people or sensitive information that happens to be displayed or played on your Mac. That information is processed only on your Devices, under your control, and Imperial ECC has no access to it. In relation to that processing you are acting for your own purposes and, where applicable law treats you as a data fiduciary or controller, you are responsible for it.
+
+4. INFORMATION WE COLLECT
+
+4.1 Through the Software: none.
+
+4.2 If you contact us (for example by email), we will receive the information you choose to send, such as your name, email address and the content of your message. We use it only to respond to you and to keep a record of our correspondence, on the basis of our legitimate interest in responding to enquiries (GDPR Article 6(1)(f)) or your consent (DPDP Act Section 6). We keep it for no longer than three (3) years after our last communication, unless a longer period is required by law.
+
+4.3 App Stores may collect information about you when you download the Software, such as download and installation statistics. That collection is governed by the App Store's own privacy policy, not this Policy. Imperial ECC may receive aggregated, non-identifying statistics from App Stores.
+
+5. NETWORK COMMUNICATIONS
+
+5.1 Discovery. Your Mac announces the Software's presence on your local network using Bonjour (multicast DNS), so that your tablet can find it. The announcement includes your Mac's computer name.
+
+5.2 Streaming. Screen content, audio and input are sent directly between your Devices over your local network. They are not routed through the internet or through any server operated by Imperial ECC or any third party.
+
+5.3 Encryption. The current version of the Software does not encrypt these transmissions. A person with access to the same network could potentially intercept them. You should use the Software only on networks you trust, such as a private home network, and avoid public or shared networks.
+
+6. PERMISSIONS
+
+6.1 The Software requests the following operating-system permissions. Each is used only for the purpose stated, and may be revoked at any time in your Device settings.
+
+macOS
+- Screen Recording: to capture the display shown on your tablet.
+- Accessibility: to convert tablet touches into clicks, drags and scrolling on your Mac.
+- Audio Capture: to play the sound of applications shown on the tablet through the tablet.
+- Local Network: to find and connect to your tablet.
+
+Android
+- Internet and network state: to connect to your Mac over your local network.
+- Wi-Fi state and multicast: to discover your Mac on your local network.
+- Wake lock: to keep Wi-Fi responsive and the screen on during a Session.
+
+7. SHARING, SALE AND TRANSFERS
+
+7.1 Imperial ECC does not sell, rent, share (including "share" for cross-context behavioural advertising under the CCPA) or disclose personal data to any third party, because the Software does not collect any.
+
+7.2 Correspondence data referred to in Clause 4.2 may be disclosed only: (a) to service providers who host our email, under contractual confidentiality obligations; (b) where required by law, court order or governmental authority; or (c) in connection with a merger, acquisition or sale of assets, subject to this Policy.
+
+7.3 Where correspondence data is transferred outside India, the European Economic Area or the United Kingdom, we rely on the safeguards required by applicable law, including adequacy decisions or standard contractual clauses, and do not transfer data to any country restricted under the DPDP Act.
+
+8. SECURITY
+
+8.1 Because the Software does not transmit data to us, the security of data processed by the Software depends primarily on the security of your Devices and your network. Imperial ECC designs the Software to minimise data processing, to request only necessary permissions and to retain nothing. Imperial ECC maintains reasonable security practices for any correspondence data it holds. No method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+9. CHILDREN
+
+9.1 The Software is not directed to children. Under the DPDP Act a "child" is a person under eighteen (18) years of age; under COPPA, a child is under thirteen (13). Imperial ECC does not knowingly collect personal data from any child. Where a child uses the Software, a parent or lawful guardian must accept the Terms of Use and supervise that use. If you believe a child has sent us personal data, contact us and we will delete it.
+
+10. YOUR RIGHTS
+
+10.1 Depending on where you live, you may have rights in relation to personal data that we hold about you, including the right to: access it; correct, complete or update it; erase it; restrict or object to its processing; data portability; withdraw consent at any time (without affecting the lawfulness of prior processing); nominate another person to exercise your rights in the event of death or incapacity (DPDP Act); know what personal data is collected, sold or shared, and to opt out of sale or sharing and limit the use of sensitive personal information (CCPA); and not be discriminated against for exercising your rights.
+
+10.2 Because the Software collects no personal data, these rights will in practice relate only to correspondence data we hold under Clause 4.2. To exercise any right, contact us using the details in Clause 13. We will respond within the time required by applicable law, and may need to verify your identity first. You may also use an authorised agent where the law permits.
+
+10.3 You have the right to lodge a complaint with a supervisory authority, including the Data Protection Board of India, the supervisory authority of your EU member state of residence, the UK Information Commissioner's Office, or the California Privacy Protection Agency.
+
+11. DATA DELETION
+
+11.1 Data on your Devices: you can delete all settings stored by the Software by uninstalling it, or by clearing its data in your Device settings. Because the Software retains no screen content, audio or input, nothing else needs to be deleted.
+
+11.2 Data held by us: to request deletion of correspondence data, contact Grievance@imperialecc.com. We will delete it within thirty (30) days, save where retention is required by law.
+
+12. CHANGES TO THIS POLICY
+
+12.1 We may update this Policy from time to time. The updated Policy will be made available within the Software and at imperialecc.com, with a revised "Last updated" date. Where a change is material, we will take reasonable steps to notify you in advance.
+
+13. CONTACT, GRIEVANCE OFFICER AND DATA PROTECTION CONTACT
+
+13.1 For any question, request or complaint about this Policy or your personal data, contact:
+
+Grievance Officer / Data Protection Contact
+Imperial Eminence Cyberguard Corporation
+Email: Grievance@imperialecc.com
+General support: support@imperialecc.com
+Website: imperialecc.com
+
+13.2 The Grievance Officer will acknowledge a grievance within twenty-four (24) hours and resolve it within the period required by applicable law, and in any event within thirty (30) days of receipt.
+
+13.3 EU and UK representatives: where Imperial ECC is required to appoint a representative under GDPR Article 27 or UK GDPR Article 27, their details will be published here.

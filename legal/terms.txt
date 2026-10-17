@@ -1,0 +1,203 @@
+AIRSIVO
+TERMS OF USE AND END USER LICENCE AGREEMENT
+
+Last updated: 17 October 2026
+Version: 1.0
+
+IMPORTANT — PLEASE READ CAREFULLY. THESE TERMS CONTAIN A LIMITATION OF LIABILITY UNDER WHICH, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY HAS NO LIABILITY TO YOU (CLAUSE 13), A DISCLAIMER OF ALL WARRANTIES (CLAUSE 12), AN INDEMNITY FROM YOU (CLAUSE 14), AND A BINDING ARBITRATION AGREEMENT WITH A WAIVER OF CLASS ACTIONS AND JURY TRIALS (CLAUSE 19). BY CLICKING "AGREE", "AGREE & CONTINUE", "INSTALL" OR ANY SIMILAR BUTTON, OR BY DOWNLOADING, INSTALLING, ACCESSING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE, YOU MUST NOT DOWNLOAD, INSTALL, ACCESS OR USE THE SOFTWARE.
+
+1. PARTIES AND APPLICATION
+
+1.1 These Terms of Use and End User Licence Agreement (the "Terms") form a legally binding agreement between you and Imperial Eminence Cyberguard Corporation (the "Company", "Imperial ECC", "we", "us" or "our").
+
+1.2 If you accept these Terms on behalf of a company, organisation or other legal entity, you represent and warrant that you have the authority to bind that entity, in which case "you" and "your" refer to that entity and to each individual who uses the Software on its behalf.
+
+1.3 These Terms apply to the Airsivo application for macOS, the Airsivo application for Android, any installer, update, upgrade, patch, documentation and related materials supplied by the Company (together, the "Software").
+
+1.4 These Terms incorporate by reference the Privacy Policy, the Acceptable Use Policy, the Disclaimer, the Security and Vulnerability Disclosure Policy and the Intellectual Property and Trademark Policy, each as published within the Software and at imperialecc.com (together, the "Policies"). In the event of conflict, these Terms prevail over the Policies, save that the Privacy Policy prevails in relation to the processing of personal data.
+
+2. DEFINITIONS AND INTERPRETATION
+
+2.1 In these Terms:
+"Applicable Law" means all laws, statutes, regulations, codes and binding guidance applicable to a party or to the use of the Software;
+"App Store" means any third-party platform through which the Software is distributed, including the Google Play Store;
+"Device" means any computer, tablet, telephone or other hardware that you own or control and on which the Software is installed or used;
+"Mandatory Rights" means any right, remedy or protection that cannot lawfully be excluded, restricted or limited by contract under Applicable Law, including statutory consumer rights;
+"Platform Provider" means Apple Inc., Google LLC, Samsung Electronics Co., Ltd. and any other manufacturer or provider of an operating system, Device or network service with which the Software interacts;
+"Session" means any period during which the Software streams screen content, audio or input between your Devices; and
+"User Content" means any screen content, audio, input, data or other material displayed, captured, transmitted, received or controlled by means of the Software.
+
+2.2 Headings are for convenience only and do not affect interpretation. The words "including", "include" and "in particular" are illustrative and do not limit the generality of the preceding words. A reference to a statute includes that statute as amended or re-enacted from time to time.
+
+3. ELIGIBILITY
+
+3.1 You must be at least eighteen (18) years of age, or the age of legal majority in your jurisdiction if higher, to accept these Terms. A person under that age may use the Software only with the consent and under the supervision of a parent or legal guardian who accepts these Terms on that person's behalf and is responsible for that person's use.
+
+3.2 You must not use the Software if you are prohibited from doing so under Applicable Law, including any sanctions or export control law.
+
+4. LICENCE
+
+4.1 Subject to your continuing compliance with these Terms, the Company grants you a limited, personal, revocable, non-exclusive, non-transferable and non-sublicensable licence to download, install and use the Software in object-code form on Devices that you own or control, solely for your own personal or internal business purposes.
+
+4.2 The Software is licensed, not sold. The Company and its licensors reserve all rights not expressly granted to you in these Terms. No right or licence is granted by implication, estoppel or otherwise.
+
+4.3 Where you obtain the Software through an App Store, you must also comply with the terms of that App Store. The App Store is not a party to these Terms and has no responsibility for the Software, its maintenance or support, or any claim relating to it.
+
+5. RESTRICTIONS
+
+5.1 Except to the extent expressly permitted by Applicable Law notwithstanding this restriction, you must not, and must not permit any third party to:
+(a) copy, modify, translate, adapt or create derivative works of the Software;
+(b) decompile, disassemble, reverse engineer or otherwise attempt to derive the source code, algorithms, protocols or structure of the Software;
+(c) sell, resell, rent, lease, lend, distribute, sublicense, assign or otherwise transfer the Software or any right in it, or make the Software available to any third party as a service;
+(d) remove, alter or obscure any proprietary notice, label or mark on or in the Software;
+(e) circumvent, disable or interfere with any security, licensing or technical protection feature of the Software or of any third-party content, application or service;
+(f) use the Software to capture, record, reproduce, retransmit or distribute any content that you do not have the right to access or distribute, including content protected by digital rights management;
+(g) use the Software to access, observe or control any Device, account or system without the authorisation of its owner;
+(h) use the Software in any manner that breaches Applicable Law, the Acceptable Use Policy or the rights of any third party; or
+(i) use the Software in any environment requiring fail-safe performance, including the operation of medical, life-support, aviation, transport, weapons, nuclear or critical infrastructure systems, or any other environment in which failure of the Software could lead to death, personal injury, or physical or environmental damage ("High-Risk Use").
+
+6. YOUR RESPONSIBILITIES
+
+6.1 You are solely responsible for:
+(a) your Devices, their configuration, security and compatibility, and any operating-system permission you grant to the Software;
+(b) the security of the network over which you use the Software. You acknowledge that the Software transmits data over your local network without encryption, and that any person with access to that network may be able to intercept it. You must use the Software only on networks that you trust;
+(c) all User Content, and for obtaining every consent, licence and permission required to display, capture, transmit or control it;
+(d) backing up your data. The Company is not responsible for any loss or corruption of data; and
+(e) all activity carried out through the Software on your Devices.
+
+6.2 You acknowledge that the Software can permit a person holding a connected tablet to view the screen of, and to control, the connected computer. You are solely responsible for controlling physical access to your Devices and for ending a Session when it is no longer required.
+
+7. PERMISSIONS AND OPERATING-SYSTEM FEATURES
+
+7.1 The Software requires certain operating-system permissions, including Screen Recording, Accessibility, Audio Capture and Local Network access on macOS, and network access on Android, as described in the Privacy Policy. You may withhold or withdraw any permission at any time, in which case some or all functions of the Software may be unavailable.
+
+7.2 The Software relies on operating-system features, interfaces and behaviours that are controlled by Platform Providers, some of which are undocumented, and which may be changed, restricted or withdrawn at any time without notice. The Company does not warrant that the Software will continue to function following any change made by a Platform Provider.
+
+8. USER CONTENT
+
+8.1 As between you and the Company, you retain all rights in your User Content. The Software processes User Content solely on and between your Devices. The Company does not receive, access, store or acquire any right in User Content.
+
+8.2 You represent and warrant that your use of User Content through the Software does not and will not infringe any intellectual property right, privacy right or other right of any person, or breach any Applicable Law or contract.
+
+9. FEES
+
+9.1 The Software is currently made available free of charge. The Company may introduce fees, paid features or subscriptions in future. Any such fees will be notified to you before you incur them, will be subject to supplementary terms presented at that time, and will not apply retrospectively.
+
+10. UPDATES, CHANGES AND AVAILABILITY
+
+10.1 The Company may, at its discretion and without obligation, provide updates, upgrades or new versions of the Software, which may add, modify or remove functions. Updates may be required for continued use. Updates are governed by these Terms unless accompanied by separate terms.
+
+10.2 The Company may modify, suspend or discontinue the Software, or any part of it, at any time, with or without notice, and has no liability to you for doing so.
+
+10.3 The Company has no obligation to provide maintenance, support or any service level in respect of the Software.
+
+11. INTELLECTUAL PROPERTY
+
+11.1 The Software, including its code, design, structure, interfaces, protocols, documentation, and all names, logos and marks (including "Airsivo" and "Imperial ECC"), and all intellectual property rights in them, are and remain the exclusive property of the Company and its licensors, and are protected by the copyright, trademark, patent, trade secret and other laws of India and other jurisdictions and by international treaties.
+
+11.2 If you provide any suggestion, idea or feedback about the Software ("Feedback"), you grant the Company a perpetual, irrevocable, worldwide, royalty-free, fully paid-up, transferable and sublicensable licence to use, disclose, reproduce, modify and exploit that Feedback for any purpose without restriction, attribution or compensation.
+
+12. DISCLAIMER OF WARRANTIES
+
+12.1 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS", "AS AVAILABLE" AND "WITH ALL FAULTS", WITHOUT WARRANTY, REPRESENTATION, CONDITION OR GUARANTEE OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE.
+
+12.2 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES, LICENSORS AND SUPPLIERS, EXPRESSLY DISCLAIMS ALL WARRANTIES, REPRESENTATIONS AND CONDITIONS, INCLUDING ANY IMPLIED WARRANTY OR CONDITION OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, NON-INFRINGEMENT, AND ANY WARRANTY ARISING FROM COURSE OF DEALING, USAGE OR TRADE PRACTICE.
+
+12.3 WITHOUT LIMITING CLAUSES 12.1 AND 12.2, THE COMPANY DOES NOT WARRANT THAT: (A) THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS; (B) THE SOFTWARE WILL BE COMPATIBLE WITH ANY DEVICE, OPERATING SYSTEM, NETWORK, APPLICATION OR CONTENT; (C) THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION, DELAY, LATENCY, DEGRADATION OR ERROR; (D) ANY DEFECT WILL BE CORRECTED; (E) THE SOFTWARE OR ANY TRANSMISSION WILL BE SECURE, PRIVATE OR FREE FROM INTERCEPTION, VIRUSES OR OTHER HARMFUL COMPONENTS; (F) THE SOFTWARE WILL NOT CAUSE ANY LOSS OR CORRUPTION OF DATA, OR ANY MALFUNCTION OF ANY DEVICE; OR (G) ANY RESULT OBTAINED FROM USE OF THE SOFTWARE WILL BE ACCURATE OR RELIABLE.
+
+12.4 YOU ASSUME THE ENTIRE RISK AS TO THE QUALITY, PERFORMANCE, SECURITY AND RESULTS OF THE SOFTWARE AND OF ITS USE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM THE COMPANY CREATES ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+
+13. EXCLUSION AND LIMITATION OF LIABILITY
+
+13.1 NOTHING IN THESE TERMS EXCLUDES OR LIMITS ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW, INCLUDING, WHERE AND TO THE EXTENT APPLICABLE: (A) LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE; (B) LIABILITY FOR FRAUD OR FRAUDULENT MISREPRESENTATION; (C) LIABILITY FOR WILFUL MISCONDUCT OR GROSS NEGLIGENCE WHERE SUCH LIABILITY CANNOT LAWFULLY BE EXCLUDED; AND (D) ANY MANDATORY RIGHTS. THIS CLAUSE 13 SHALL BE READ SUBJECT TO THIS CLAUSE 13.1 IN EVERY RESPECT.
+
+13.2 SUBJECT TO CLAUSE 13.1, AND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COMPANY, ITS AFFILIATES, OR ANY OF ITS OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, SHAREHOLDERS, AGENTS, CONTRACTORS, LICENSORS, SUPPLIERS, SUCCESSORS OR ASSIGNS (TOGETHER, THE "COMPANY PARTIES") BE LIABLE TO YOU OR TO ANY THIRD PARTY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY, MISREPRESENTATION, RESTITUTION, STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT FORESEEABLE OR ADVISED OF THE POSSIBILITY, FOR ANY LOSS OR DAMAGE OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THESE TERMS, THE SOFTWARE, ITS USE OR INABILITY TO USE, ANY SESSION, ANY USER CONTENT, ANY INTERCEPTION OF OR UNAUTHORISED ACCESS TO ANY TRANSMISSION OR DEVICE, OR ANY ACT OR OMISSION OF ANY PLATFORM PROVIDER, APP STORE OR OTHER THIRD PARTY, INCLUDING ANY: (A) LOSS OF PROFIT, REVENUE, BUSINESS, CONTRACT, ANTICIPATED SAVINGS, GOODWILL OR OPPORTUNITY; (B) LOSS, CORRUPTION OR DISCLOSURE OF DATA OR USER CONTENT; (C) DAMAGE TO OR MALFUNCTION OF ANY DEVICE, SOFTWARE OR SYSTEM; (D) BUSINESS INTERRUPTION OR WASTED EXPENDITURE; (E) COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; OR (F) INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE LOSS OR DAMAGE.
+
+13.3 SUBJECT TO CLAUSE 13.1, AND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL AGGREGATE LIABILITY OF THE COMPANY PARTIES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS AND THE SOFTWARE, FOR ALL CLAIMS OF EVERY KIND AND HOWSOEVER ARISING, SHALL BE NIL (ZERO).
+
+13.4 YOU ACKNOWLEDGE THAT THE SOFTWARE IS PROVIDED FREE OF CHARGE, THAT THE EXCLUSIONS AND LIMITATIONS IN CLAUSES 12 AND 13 ARE REASONABLE IN ALL THE CIRCUMSTANCES, THAT THEY REFLECT A FAIR ALLOCATION OF RISK, AND THAT THE COMPANY WOULD NOT MAKE THE SOFTWARE AVAILABLE TO YOU WITHOUT THEM. THEY APPLY EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+
+13.5 IF, NOTWITHSTANDING CLAUSE 13.3, ANY COMPETENT TRIBUNAL DETERMINES THAT THE COMPANY PARTIES HAVE ANY LIABILITY THAT CANNOT LAWFULLY BE REDUCED TO NIL, THAT LIABILITY SHALL BE LIMITED TO THE MINIMUM AMOUNT PERMITTED BY APPLICABLE LAW.
+
+13.6 ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR THE SOFTWARE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, FAILING WHICH IT IS PERMANENTLY BARRED, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+13.7 Each Company Party other than the Company may enforce this Clause 13 as a third-party beneficiary.
+
+14. INDEMNITY
+
+14.1 To the fullest extent permitted by Applicable Law, you shall defend, indemnify and hold harmless the Company Parties from and against all claims, demands, actions, proceedings, liabilities, losses, damages, fines, penalties, costs and expenses (including reasonable legal and professional fees) arising out of or in connection with: (a) your use or misuse of the Software; (b) your User Content; (c) your breach of these Terms or any Policy; (d) your breach of Applicable Law; or (e) your infringement of the rights of any third party.
+
+14.2 The Company may assume the exclusive defence and control of any matter subject to indemnification by you, in which case you shall cooperate fully. You must not settle any such matter without the Company's prior written consent.
+
+15. THIRD-PARTY PLATFORMS AND TRADEMARKS
+
+15.1 The Software is not affiliated with, endorsed by, sponsored by or approved by any Platform Provider. Apple, Mac, macOS, AirPlay and Sidecar are trademarks of Apple Inc. Android and Google Play are trademarks of Google LLC. Samsung and Galaxy are trademarks of Samsung Electronics Co., Ltd. All other trademarks are the property of their respective owners and are used for identification purposes only.
+
+15.2 The Company is not responsible for any Device, operating system, application, content, network or service of any third party, or for any act or omission of any Platform Provider or App Store.
+
+16. EXPORT CONTROL AND SANCTIONS
+
+16.1 You shall comply with all applicable export control and economic sanctions laws, including those of India, the United States, the United Kingdom and the European Union. You represent and warrant that you are not located in, ordinarily resident in, or organised under the laws of any country or territory subject to comprehensive sanctions, and that you are not identified on any sanctions or restricted-party list.
+
+17. TERM AND TERMINATION
+
+17.1 These Terms take effect when you first accept them or first use the Software, and continue until terminated.
+
+17.2 You may terminate these Terms at any time by ceasing all use of the Software and deleting it from all your Devices.
+
+17.3 The Company may suspend or terminate your licence at any time, with or without notice and with or without cause. Your licence terminates automatically, without notice, if you breach any provision of these Terms.
+
+17.4 On termination, all rights granted to you cease immediately, and you must stop using and delete all copies of the Software. Clauses 2, 5, 8.2, 11, 12, 13, 14, 15, 17.4, 18, 19 and 20, and any other provision which by its nature is intended to survive, survive termination.
+
+18. CHANGES TO THESE TERMS
+
+18.1 The Company may amend these Terms from time to time. The amended Terms will be made available within the Software and at imperialecc.com with a revised "Last updated" date. Where an amendment is material, the Company will take reasonable steps to bring it to your attention, which may include requiring you to accept the amended Terms before continuing to use the Software.
+
+18.2 Your continued use of the Software after amended Terms take effect constitutes your acceptance of them. If you do not agree, you must stop using the Software.
+
+19. GOVERNING LAW AND DISPUTE RESOLUTION
+
+19.1 Governing law. These Terms and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with them, their subject matter or formation, shall be governed by and construed in accordance with the laws of the Republic of India, without regard to its conflict-of-laws rules.
+
+19.2 Informal resolution. Before commencing any proceedings, you shall first notify the Company in writing of the dispute, and the parties shall attempt in good faith to resolve it for a period of thirty (30) days from receipt of that notice.
+
+19.3 Arbitration. Subject to Clause 19.6, any dispute, controversy or claim arising out of or in connection with these Terms, including any question regarding their existence, validity, interpretation, performance, breach or termination, that is not resolved under Clause 19.2 shall be referred to and finally resolved by arbitration under the Arbitration and Conciliation Act, 1996 (as amended). The tribunal shall consist of a sole arbitrator appointed by the Company. The seat and venue of arbitration shall be New Delhi, India. The language of the arbitration shall be English. The award shall be final and binding on the parties. The proceedings and award shall be confidential.
+
+19.4 Class action and representative action waiver. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ALL CLAIMS MUST BE BROUGHT IN YOUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF, CLAIMANT OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE, CONSOLIDATED OR REPRESENTATIVE PROCEEDING. THE ARBITRATOR MAY NOT CONSOLIDATE CLAIMS OF MORE THAN ONE PERSON.
+
+19.5 Jury trial waiver. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EACH PARTY IRREVOCABLY WAIVES ANY RIGHT TO A TRIAL BY JURY.
+
+19.6 Courts. Subject to Clause 19.3, the courts at New Delhi, India shall have exclusive jurisdiction over any proceedings in support of arbitration and over any matter not capable of arbitration. Nothing in this Clause 19 prevents the Company from seeking injunctive or other equitable relief in any court of competent jurisdiction to protect its intellectual property or confidential information.
+
+19.7 Consumers. If you are a consumer habitually resident in a jurisdiction whose law gives you a Mandatory Right to bring proceedings in, or to the protection of the law of, your place of residence, nothing in this Clause 19 deprives you of that right.
+
+20. GENERAL
+
+20.1 Entire agreement. These Terms and the Policies constitute the entire agreement between you and the Company relating to the Software and supersede all prior agreements, representations and understandings. You acknowledge that you have not relied on any statement, representation or warranty not expressly set out in these Terms.
+
+20.2 Severability. If any provision of these Terms is held to be invalid, illegal or unenforceable in any jurisdiction, that provision shall be modified to the minimum extent necessary to make it valid and enforceable, or, if that is not possible, severed, and the remaining provisions shall continue in full force and effect. Any such holding shall not affect the validity of that provision in any other jurisdiction.
+
+20.3 Waiver. No failure or delay by the Company in exercising any right or remedy constitutes a waiver of it. A waiver is effective only if made in writing and signed by an authorised representative of the Company.
+
+20.4 Assignment. You may not assign, transfer, charge or otherwise deal with any of your rights or obligations under these Terms without the Company's prior written consent. The Company may assign, transfer or novate any of its rights or obligations at any time without your consent.
+
+20.5 Force majeure. The Company shall not be liable for any failure or delay in performance caused by any event beyond its reasonable control, including any act or omission of a Platform Provider, network failure, act of God, epidemic, war, terrorism, civil unrest, governmental action, labour dispute or failure of utilities.
+
+20.6 No partnership. Nothing in these Terms creates any partnership, joint venture, agency, fiduciary or employment relationship between you and the Company.
+
+20.7 Third-party rights. Save as provided in Clause 13.7, no person other than you and the Company has any right to enforce any term of these Terms.
+
+20.8 Notices. The Company may give notice to you within the Software or at imperialecc.com. You must give notice to the Company in writing by email to legal@imperialecc.com. Notices by email are deemed received on the next business day after sending.
+
+20.9 Language. These Terms are drawn up in English. Any translation is provided for convenience only, and the English version prevails in the event of inconsistency.
+
+20.10 Electronic acceptance. You agree that your electronic acceptance of these Terms has the same legal effect as a signature, in accordance with the Information Technology Act, 2000 and other Applicable Law.
+
+21. CONTACT
+
+Imperial Eminence Cyberguard Corporation
+Legal notices: legal@imperialecc.com
+Support: support@imperialecc.com
+Website: imperialecc.com
+
+© 2026 Imperial Eminence Cyberguard Corporation. All rights reserved.

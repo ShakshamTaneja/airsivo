@@ -1,0 +1,10 @@
+AIRSIVO
+ACKNOWLEDGEMENTS AND THIRD-PARTY NOTICES
+
+Airsivo is built with platform frameworks supplied by the operating systems on which it runs, including Apple ScreenCaptureKit, VideoToolbox, Core Audio, Network and SwiftUI on macOS, and Android MediaCodec, AudioTrack and Network Service Discovery on Android. These frameworks are licensed to you by the respective platform providers under their own terms.
+
+Airsivo contains no third-party open-source software components. If that changes, the licences and notices for those components will be listed here.
+
+Apple, Mac, macOS, AirPlay and Sidecar are trademarks of Apple Inc. Android and Google Play are trademarks of Google LLC. Samsung and Galaxy are trademarks of Samsung Electronics Co., Ltd. Airsivo is not affiliated with, endorsed by or sponsored by these companies.
+
+© 2026 Imperial Eminence Cyberguard Corporation. All rights reserved.
