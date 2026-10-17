@@ -48,6 +48,30 @@
 
 <br>
 
+<h2 align="center">Feels like it came with your Mac.</h2>
+
+<p align="center">
+  Airsivo lives quietly in your menu bar, with native windows, native controls,<br>and a welcome that walks you through every permission.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/mac-welcome.png" width="420" alt="Airsivo welcome window on macOS">
+  &nbsp;
+  <img src="assets/mac-about.png" width="300" alt="About Airsivo on macOS">
+</p>
+<p align="center">
+  <img src="assets/mac-legal.png" width="760" alt="Airsivo legal window on macOS">
+</p>
+<p align="center"><sub>Unedited screenshots from macOS.</sub></p>
+
+<br>
+
+---
+
+<br>
+
 <h2 align="center">Fast enough to forget it's wireless.</h2>
 
 <p align="center">
